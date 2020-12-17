@@ -7,3 +7,5 @@ My EDA: https://colab.research.google.com/drive/1yR7HF_AKs9ofg6y6SS9WjPHTeq2Ocds
 Regression: https://colab.research.google.com/drive/1IfXCpiuJ6-FZv536ecGpH5XbDGpdP3x5?utm_source=sendinblue&utm_campaign=HackLive2_Recordings__Notebooks_2_oct&utm_medium=email
 
 Somewhat NLP: https://colab.research.google.com/drive/1IkhHMtaszHuRB78d0RPlo0uexjm1T666?usp=sharing&utm_source=sendinblue&utm_campaign=HackLive3_Recordings__Notebooks_17Oct&utm_medium=email
+
+Gautham-Hyd: https://colab.research.google.com/drive/1X9SOg5asqC8RkK9MXtu6uznUn2iIpf3S?usp=sharing
