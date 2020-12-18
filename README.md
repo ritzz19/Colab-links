@@ -8,4 +8,3 @@ Regression: https://colab.research.google.com/drive/1IfXCpiuJ6-FZv536ecGpH5XbDGp
 
 Somewhat NLP: https://colab.research.google.com/drive/1IkhHMtaszHuRB78d0RPlo0uexjm1T666?usp=sharing&utm_source=sendinblue&utm_campaign=HackLive3_Recordings__Notebooks_17Oct&utm_medium=email
 
-Gautham-Hyd-updated: https://colab.research.google.com/drive/1L3e6PgqmqJM3_R2RYgnL7ZynXshUzR7n?usp=sharing
